@@ -25,8 +25,6 @@
 
 "Stock Pulse" is a machine learning project designed to predict stock market trends using historical data from the Huge Stock Market Dataset. The goal is to develop and evaluate multiple machine learning models, such as Random Forest, SVM, Multiple Linear Regression, and Neural Networks, to provide accurate stock price predictions. Our project is structured to not only maximize predictive performance but also to demonstrate a deep understanding of the data, modeling techniques, and the impact of features on model outcomes.
 
-This README serves as a reference for our project progress, technical decisions, and evaluation methodology.
-
 ---
 
 ## Dataset Description
